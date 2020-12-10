@@ -24,4 +24,28 @@ div{
 	color: #004937;
 	text-decoration: underline;
 }
-
+.A{
+	position: absolute;
+	top: 50pt;
+	left: 50pt;
+}
+.B{
+	position: absolute;
+	top: 110pt;
+	left: 50pt;
+}
+.C{
+    position: absolute;
+	top: 270pt;
+	left: 50pt;
+    }
+.D{
+    position: absolute;
+	top: 500pt;
+	left: 490.8pt;
+    }
+.E{
+    position: absolute;
+	top: 270pt;
+	left: 490.8pt;
+    }
